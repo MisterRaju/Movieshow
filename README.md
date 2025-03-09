@@ -19,3 +19,25 @@ This is a **React-based Movie App** built while following **JavaScript Mastery**
    ```sh
    git clone https://github.com/your-username/movie-app.git
    cd movie-app
+2. Install dependencies:
+   ```sh
+   npm install
+3. Create a .env file and add:
+   ```sh
+   VITE_TMDB_API_KEY=your_api_key_here
+4.Start the development server:
+   ```sh
+   npm run dev
+
+## 📸 Preview  
+(Replace the link above with an actual screenshot of your app.)  
+
+## 🔥 What I Learned  
+- 🚀 **React Hooks** (`useState`, `useEffect`)  
+- 🔍 **API Fetching & Handling Responses**  
+- 🎯 **Debouncing for Optimized Search**  
+- 💡 **State Management & Component Structure**  
+
+## 📢 Credits  
+Built while learning from **JavaScript Mastery** tutorials.  
+
