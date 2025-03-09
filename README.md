@@ -29,8 +29,6 @@ This is a **React-based Movie App** built while following **JavaScript Mastery**
    ```sh
    npm run dev
    ```
-## 📸 Preview  
-(Replace the link above with an actual screenshot of your app.)  
 
 ## 🔥 What I Learned  
 - 🚀 **React Hooks** (`useState`, `useEffect`)  
