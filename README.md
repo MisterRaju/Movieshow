@@ -17,14 +17,20 @@ This is a **React-based Movie App** built while following **JavaScript Mastery**
 ## 📂 Setup & Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/movie-app.git
+   git clone https://github.com/MisterRaju/Movieshow.git
    cd movie-app
+   
 2. Install dependencies:
    ```sh
    npm install
+   
 3. Create a .env file and add:
    ```sh
-   VITE_TMDB_API_KEY=your_api_key_here
+   VITE_TMDB_API_KEY= your_api_key_here
+   VITE_APPWRITE_PROJECT_ID=your_project_id_here
+   VITE_APPWRITE_DATABASE_ID=your_database_id_here
+   VITE_APPWRITE_COLLECTION_ID=your_collection_id_here
+   
 4.Start the development server:
    ```sh
    npm run dev
