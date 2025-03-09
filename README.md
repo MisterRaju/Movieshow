@@ -28,7 +28,7 @@ This is a **React-based Movie App** built while following **JavaScript Mastery**
 4.Start the development server:
    ```sh
    npm run dev
-
+   ```
 ## 📸 Preview  
 (Replace the link above with an actual screenshot of your app.)  
 
